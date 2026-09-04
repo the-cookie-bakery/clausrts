@@ -1,0 +1,5 @@
+/bin/
+
+# The ebiten snapshot in references/ is a separate Go module kept for reading
+# engine source while developing. It is intentionally not part of this module.
+/references/ebiten/
